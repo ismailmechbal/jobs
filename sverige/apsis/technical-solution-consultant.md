@@ -52,7 +52,7 @@
 - [x] I'm a passionate web developer, love to tackle difficult challenges and ride awesome waves
 
 ###Displays an independent way of thinking, self-starting with a creative mind
-- [x] Regularly blog on sboura.com
+- [x] Regularly blog on [Sboura.com](https://www.sboura.com/?utm_source=email&utm_medium=signature_link)
 - [x] Always hungry for more!
 
 ###Likes to work in an international environment
